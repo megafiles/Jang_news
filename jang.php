@@ -8,7 +8,6 @@ echo '<BR>'.DB_HOST;
 echo '<br>'. DB_CHARSET;
 
 
-
 $servername = DB_HOST;
 $username = DB_USER;
 $password = DB_PASSWORD;
@@ -32,7 +31,6 @@ $post_type='post';
 $post_mime_type='';
 $comment_count='0';
 $post_parent='193';
-
 
 
 //---00000000====================================Dwonloading new newspaper--0000==========================
